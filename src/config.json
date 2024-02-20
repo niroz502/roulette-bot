@@ -1,36 +1,36 @@
 {
-    "options": [
-        {
-            "name": "name",
-            "admins": ["user_id", "user_id"],
-            "image": "image",
-            "emoji": "emoji️",
-            "logchannel": "channel_id",
-            "role": "role_id"
-        },
-        {
-            "name": "name",
-            "admins": ["user_id", "user_id"],
-            "image": "image",
-            "emoji": "emoji️",
-            "logchannel": "channel_id",
-            "role": "role_id"
-        },
-        {
-            "name": "name",
-            "admins": ["user_id", "user_id"],
-            "image": "image",
-            "emoji": "emoji️",
-            "logchannel": "channel_id",
-            "role": "role_id"
-        },
-        {
-            "name": "name",
-            "admins": ["user_id", "user_id"],
-            "image": "image",
-            "emoji": "emoji️",
-            "logchannel": "channel_id",
-            "role": "role_id"
-        }
-    ]
+  "options": [
+    {
+      "name": "فسم الاداره",
+      "admins": ["735639870768414761", ""],
+      "image": "https://media.discordapp.net/attachments/746336538023034920/1195655531793223781/3.jpg?ex=65b4c7fc&is=65a252fc&hm=6f52fa9b3a4ff1125999d5787c0eb0e0c6bb5444860ff1325cb622f9e03aa40e&=&format=webp&width=1093&height=683",
+      "emoji": "<:myum:1110581790445404251>",
+      "logchannel": "1195671115926868098",
+      "role": "1193443796990574602"
+    },
+    {
+      "name": "قسم مربجين",
+      "admins": ["ايديك", "735639870768414761"],
+      "image": "https://media.discordapp.net/attachments/746336538023034920/1195655531793223781/3.jpg?ex=65b4c7fc&is=65a252fc&hm=6f52fa9b3a4ff1125999d5787c0eb0e0c6bb5444860ff1325cb622f9e03aa40e&=&format=webp&width=1093&height=683",
+      "emoji": "<:ytjty:1110581920997310566> ",
+      "logchannel": "1195671115926868098",
+      "role": "1193445424644763678"
+    },
+    {
+      "name": "قسم مصميمن",
+      "admins": ["ايديك", "735639870768414761"],
+      "image": "https://media.discordapp.net/attachments/746336538023034920/1195655531793223781/3.jpg?ex=65b4c7fc&is=65a252fc&hm=6f52fa9b3a4ff1125999d5787c0eb0e0c6bb5444860ff1325cb622f9e03aa40e&=&format=webp&width=1093&height=683",
+      "emoji": "🎨",
+      "logchannel": "1195671115926868098",
+      "role": "1193442205688402081"
+    },
+    {
+      "name": "قسم مصميم جرافيك",
+      "admins": ["ايديك", "735639870768414761"],
+      "image": "https://media.discordapp.net/attachments/746336538023034920/1195655531793223781/3.jpg?ex=65b4c7fc&is=65a252fc&hm=6f52fa9b3a4ff1125999d5787c0eb0e0c6bb5444860ff1325cb622f9e03aa40e&=&format=webp&width=1093&height=683",
+      "emoji": "<a:Discord:1163831263468212244>",
+      "logchannel": "1195671115926868098",
+      "role": "1195592252102291486"
+    }
+  ]
 }
