@@ -55,4 +55,4 @@ client.once('ready', () => __awaiter(void 0, void 0, void 0, function* () {
     console.log(`Bot is online! ${(_a = client.user) === null || _a === void 0 ? void 0 : _a.username}`);
     console.log('Code by Wick Studio');
 }));
-client.login(TOKEN);
+client.login("MTE5NTY3MTQxNTYzMDg3MjU5Nw.Gdtfw9.kQ8UCIlhhDy6DNIXJDus-FKQzD12d_gzwJdgbo")
